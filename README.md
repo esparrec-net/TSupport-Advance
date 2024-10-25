@@ -1,4 +1,4 @@
-# TSupport-Advance ( TSPA )
+# TSupport-Advance ( TSP-A )
 
 This is magisk module DO NOT FLASH FROM RECOVERY!
 
