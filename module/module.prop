@@ -1,0 +1,7 @@
+id=tsupport-advance
+name=TSupport Advance
+version=R201024
+versionCode=201024
+author=Citra-Standalone
+description=When the moonlight shines on the silver lake, a path appears for those determined to move ahead.
+updateJson=https://raw.githubusercontent.com/citra-standalone/TSupport-Advance/main/release.json
