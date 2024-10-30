@@ -43,7 +43,7 @@ wget() {
 
 # Download key
 echo "> Retrieving latest key ..."
-wget -q -O key --no-check-certificate https://raw.githubusercontent.com/citra-standalone/TSupport-Advance/main/LICENSE 2>&1 || exit 1
+wget -q -O key --no-check-certificate https://raw.githubusercontent.com/citra-standalone/TSupport-Advance/main/key 2>&1 || exit 1
 
 # Read file content
 file_content=$(cat key)
